@@ -1,0 +1,6 @@
+Model,Recall score for earn,Precision score for earn,Overfitting difference (recall),
+Naive Bayes,0.79,0.95,0.02,OK
+Random Forest,0.6,0.98,,Didn't check for overfitting because low score
+Decision Tree,0.93,0.97,0.05,Looks good
+KNN,1,1,0.11,"Great score, but problem with overfitting"
+XGBoost,0.91,0.94,0.9,High performing with overfitting
