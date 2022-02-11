@@ -36,9 +36,9 @@ There were 22,000 articles included in the dataset. Of the three topic categorie
 - 34.2% - other
 - 47.5% - blank
 
+![image-20220211162403926](https://github.com/halpert3/reuters-nlp/blob/master/images/image-20220211162403926.png)
 
 
-![image-20220211162403926](C:\Users\halpe\OneDrive\Coding\take_homes\interos\images\image-20220211162403926.png)
 
 ### Most common words in articles in the *earn* category
 
