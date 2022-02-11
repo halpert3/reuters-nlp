@@ -42,17 +42,17 @@ There were 22,000 articles included in the dataset. Of the three topic categorie
 
 ### Most common words in articles in the *earn* category
 
-![image-20220211162509881](C:\Users\halpe\OneDrive\Coding\take_homes\interos\images\image-20220211162509881.png)
+![image-20220211162509881](https://github.com/halpert3/reuters-nlp/blob/master/images/image-20220211162509881.png)
 
 
 
 ### Most common words in the *other* category
 
-![image-20220211162644301](C:\Users\halpe\OneDrive\Coding\take_homes\interos\images\image-20220211162644301.png)
+![image-20220211162644301](https://github.com/halpert3/reuters-nlp/blob/master/images/image-20220211162644301.png)
 
 ### Most common words in the *blank* category
 
-![image-20220211162716309](C:\Users\halpe\OneDrive\Coding\take_homes\interos\images\image-20220211162716309.png)
+![image-20220211162716309](https://github.com/halpert3/reuters-nlp/blob/master/images/image-20220211162716309.png)
 
 ## Data Preparation
 
@@ -92,7 +92,7 @@ There were 22,000 articles included in the dataset. Of the three topic categorie
 
 - The *blank* topics were eliminated entirely for this model.
 
-![image-20220211163637911](C:\Users\halpe\OneDrive\Coding\take_homes\interos\images\image-20220211163637911.png)
+![image-20220211163637911](https://github.com/halpert3/reuters-nlp/blob/master/images/image-20220211163637911.png)
 
 
 
